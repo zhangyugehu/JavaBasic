@@ -1,4 +1,4 @@
-package com.thssh.download
+package com.thssh.kotlin.download
 
 import java.util.concurrent.LinkedBlockingQueue
 import java.util.concurrent.ThreadPoolExecutor

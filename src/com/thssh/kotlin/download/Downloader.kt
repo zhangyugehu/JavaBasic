@@ -1,4 +1,4 @@
-package com.thssh.download
+package com.thssh.kotlin.download
 
 import java.io.File
 import java.io.FileOutputStream

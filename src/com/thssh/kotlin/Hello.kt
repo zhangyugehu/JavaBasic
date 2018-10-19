@@ -1,3 +1,5 @@
+package com.thssh.kotlin
+
 fun main(args: Array<String>) {
 
     println(strLen(null))
